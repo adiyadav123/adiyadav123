@@ -1,4 +1,13 @@
 <h2> Hey there👋, I'm Aditya.</h2>
+
+<h2>About Me</h2>
+<ul>
+  <li>Name - Aditya</li>
+  <li>City - Varanasi</li>
+  <li>Discord - Ay#4762</li>
+  <li>Youtube - https://youtube.com/@cwa387</li>
+</ul>
+
 <h3> 🛠 &nbsp;Languages that I know</h3>
 
 - 💻 &nbsp;

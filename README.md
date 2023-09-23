@@ -4,7 +4,7 @@
 <ul>
   <li>Name - Aditya</li>
   <li>City - Varanasi</li>
-  <li>Discord - Ay#4762</li>
+  <li>Discord - ay09299</li>
   <li>Youtube - https://youtube.com/@cwa387</li>
 </ul>
 

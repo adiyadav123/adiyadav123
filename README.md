@@ -60,7 +60,7 @@
  <a href="https://github.com/adiyadav123"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adiyadav123&theme=tokyonight&hide_border=true"  width="470" alt="Yipmong"/></a>
 </div>
 
-[![GitHub yipmong](https://img.shields.io/github/followers/adiyadav123?label=follow&style=social&logoColor=black)](https://github.com/syipmong)
+[![GitHub aditya](https://img.shields.io/github/followers/adiyadav123?label=follow&style=social&logoColor=black)](https://github.com/adiyadav123)
 <!--![Profile views](https://gpvc.arturio.dev/syipmong)-->
 
 

@@ -3,8 +3,8 @@
 <h2>About Me</h2>
 <ul>
   <li>Name - Aditya</li>
-  <li>City - Varanasi</li>
-  <li>Discord - ay09299</li>
+  <li>City - India</li>
+  <li>Discord - aditya_is</li>
   <li>Youtube - https://youtube.com/@cwa387</li>
 </ul>
 
